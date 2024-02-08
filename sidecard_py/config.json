@@ -1,0 +1,13 @@
+{
+  "endpoints": [
+    {
+      "url": "http://localhost:80/",
+      "interval_seconds": 20
+    },
+    {
+      "url": "http://localhost:80/error",
+      "interval_seconds": 20
+    }
+  ]
+}
+    

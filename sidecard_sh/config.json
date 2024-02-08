@@ -1,0 +1,9 @@
+{
+  "endpoints": [
+    {
+      "url": "http://localhost/",
+      "interval_seconds": 10
+    }
+  ]
+}
+  
